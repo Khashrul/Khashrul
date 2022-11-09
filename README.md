@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khashrul
-- 👀 I’m interested in php,Laravel,GraphQL,Magento,REST,ElasticSeacrh,Opensearch
-- 🌱 I’m currently learning React,Node,Next,ANT Design.
+- 👀 I’m interested in Laravel, GraphQL, Magento, REST, ElasticSeacrh, Opensearch
+- 🌱 I’m currently learning React, Node, Next, ANT Design.
 - 📫 01921328498, khashrul.cse@gmail.com
 
 <!---
